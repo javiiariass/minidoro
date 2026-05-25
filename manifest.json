@@ -1,10 +1,9 @@
 {
-	"id": "minidoro",
+	"id": "minidoroModded",
 	"name": "Minidoro",
-	"version": "1.0.11",
+	"version": "1.0.11a",
 	"minAppVersion": "0.15.0",
 	"description": "A minimal Pomodoro timer to help you focus.",
-	"author": "Shakti Sampad Swain",
-	"fundingUrl": "https://buymeacoffee.com/shakti_02",
+	"author": "Shakti Sampad Swain // modded by javiiariass",
 	"isDesktopOnly": false
 }
